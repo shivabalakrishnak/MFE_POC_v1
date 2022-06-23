@@ -1,0 +1,35 @@
+.cars-container .card {
+  min-width: 200px;
+  max-width: 300px;
+  margin: 10px;
+  border: 1px solid brown;
+  padding: 10px;
+  background-color: white;
+}
+
+.cars-container .card p {
+  font-size: 1.3rem;
+  color: brown;
+}
+.react-responsive-modal-modal {
+    width: calc(100vw - 100px);
+    height: calc(100vh - 200px);
+}
+.modal-info-cont .img-cont img{
+/* height:400px; */
+}
+
+.interest-form{
+    border: 1px solid rebeccapurple;
+    padding: 20px;
+}
+
+.interest-form input{
+    padding:5px 10px;
+    margin-top:20px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+.interest-form label{
+    
+}

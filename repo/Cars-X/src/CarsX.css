@@ -1,0 +1,10 @@
+.cars-container .card{
+    min-width: 200px;
+    max-width: 300px;
+    margin:10px;
+}
+
+.cars-container .card p{
+font-size: 1.5rem;
+color:blueviolet;
+}
